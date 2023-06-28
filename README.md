@@ -1,2 +1,2 @@
 # 312Project
-Game platform allows users to interect with each other
+Game platform that allows users to interect with each other
